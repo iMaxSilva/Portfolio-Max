@@ -11,6 +11,7 @@ import {ReactComponent as Postgres} from './icons/postgresql.svg';
 import {ReactComponent as Reactjs} from './icons/react.svg';
 import {ReactComponent as Javascript} from './icons/javascript.svg';
 import {ReactComponent as Typescript} from './icons/typescript.svg';
+import {ReactComponent as StyledComponents} from './icons/styledcomponents.svg';
 
 
 export default function Skills() {
@@ -40,7 +41,7 @@ export default function Skills() {
                     <Reactjs width={60}/>
                 </div>
                 <div>
-                    <Bootstrap width={60}/>
+                    <StyledComponents width={60}/>
                 </div>
                 <div>
                     <Nodejs width={60}/>
