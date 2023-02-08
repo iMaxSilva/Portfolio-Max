@@ -9,7 +9,6 @@ import {ReactComponent as Php} from './icons/php.svg';
 import {ReactComponent as Bootstrap} from './icons/bootstrap.svg';
 import {ReactComponent as Postgres} from './icons/postgresql.svg';
 import {ReactComponent as Reactjs} from './icons/react.svg';
-import {ReactComponent as StyledComponents} from './icons/styledcomponents.svg';
 import {ReactComponent as Javascript} from './icons/javascript.svg';
 import {ReactComponent as Typescript} from './icons/typescript.svg';
 
@@ -35,7 +34,7 @@ export default function Skills() {
                     <Typescript width={60}/>
                 </div>
                 <div>
-                    <StyledComponents width={60}/>
+                    <Bootstrap width={60}/>
                 </div>
                 <div>
                     <Reactjs width={60}/>
